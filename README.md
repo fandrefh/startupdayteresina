@@ -3,4 +3,4 @@
 
 Repositório para as referências que foram consultadas antes da palestra.
 
-Para as referências [https://github.com/fandrefh/startupdayteresina/blob/master/references.md](clique aqui).
+Para as referências [clique aqui](https://github.com/fandrefh/startupdayteresina/blob/master/references.md).
